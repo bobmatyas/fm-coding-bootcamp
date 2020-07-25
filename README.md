@@ -1,5 +1,12 @@
 # Frontend Mentor - Coding Bootcamp Testimonials Slider
 
+My solution using Flexbox, CSS Custom Properties, and JavaScript:
+
+[https://bobmatyas.github.io/fm-coding-bootcamp/](https://bobmatyas.github.io/fm-coding-bootcamp/)
+
+
+
+
 ![Design preview for the Coding Bootcamp Testimonials Slider coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
